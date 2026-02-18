@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "『レッツゴー』 (紬Ver.)",
+  "base_artist": "琴吹紬 (CV:寿美菜子)",
+  "createdAt": "2026-02-18T21:56:31.273590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "『レッツゴー』 (紬Ver.)",
+      "artist": "琴吹紬 (CV:寿美菜子)",
+      "has_synced": false,
+      "path": "select/01_『レッツゴー』_(紬Ver.)_琴吹紬_(CV_寿美菜子).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "『レッツゴー』(紬Ver.)",
+      "artist": "寿美菜子",
+      "has_synced": false,
+      "path": "select/02_『レッツゴー』(紬Ver.)_寿美菜子.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "『レッツゴー』 [紬Ver.] [GAME Mix]",
+      "artist": "琴吹 紬(CV:寿 美菜子)",
+      "has_synced": false,
+      "path": "select/03_『レッツゴー』_[紬Ver.]_[GAME_Mix]_琴吹_紬(CV_寿_美菜子).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レッツゴー (紬Ver.) [GAME Mix]",
+      "artist": "寿美菜子",
+      "has_synced": false,
+      "path": "select/04_レッツゴー_(紬Ver.)_[GAME_Mix]_寿美菜子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "『レッツゴー』 [紬Ver.] [GAME Mix]",
+      "artist": "琴吹紬 (寿美菜子)",
+      "has_synced": false,
+      "path": "select/05_『レッツゴー』_[紬Ver.]_[GAME_Mix]_琴吹紬_(寿美菜子).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "『レッツゴー』 [紬Ver.]",
+      "artist": "琴吹紬(CV:寿美菜子)",
+      "has_synced": false,
+      "path": "select/06_『レッツゴー』_[紬Ver.]_琴吹紬(CV_寿美菜子).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "『レッツゴー』 [紬Ver.] [GAME Mix]",
+      "artist": "琴吹紬(CV:寿美菜子)",
+      "has_synced": false,
+      "path": "select/07_『レッツゴー』_[紬Ver.]_[GAME_Mix]_琴吹紬(CV_寿美菜子).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "レッツゴー (紬Ver.) [GAME Mix]",
+      "artist": "寿美菜子",
+      "has_synced": false,
+      "path": "select/08_レッツゴー_(紬Ver.)_[GAME_Mix]_寿美菜子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "『レッツゴー』(紬Ver.)(GAME Mix)",
+      "artist": "寿美菜子",
+      "has_synced": false,
+      "path": "select/09_『レッツゴー』(紬Ver.)(GAME_Mix)_寿美菜子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "『レッツゴー』(紬Ver.)",
+      "artist": "琴吹紬(CV:寿美菜子)",
+      "has_synced": true,
+      "path": "select/10_『レッツゴー』(紬Ver.)_琴吹紬(CV_寿美菜子).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "『レッツゴー』 (紬Ver.)",
+      "artist": "琴吹紬",
+      "has_synced": true,
+      "path": "select/11_『レッツゴー』_(紬Ver.)_琴吹紬.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "『レッツゴー』 (紬Ver.)",
+      "artist": "琴吹紬 (CV：寿美菜子)",
+      "has_synced": true,
+      "path": "select/12_『レッツゴー』_(紬Ver.)_琴吹紬_(CV_寿美菜子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "『レッツゴー』 (紬Ver.)",
+      "artist": "琴吹紬(CV:寿美菜子)",
+      "has_synced": false,
+      "path": "select/pl_01_『レッツゴー』_(紬Ver.)_琴吹紬(CV_寿美菜子).txt"
+    }
+  ]
+}
